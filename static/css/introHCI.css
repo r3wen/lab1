@@ -62,7 +62,9 @@ a:hover {
 
 .thumbnail {
      border-bottom: 5px solid #A767FF;
-     width: 520px;
+     width: 100%;
+     max-width: 520px;
+     height: auto;
 }
 
 .heading {
